@@ -7,7 +7,7 @@
 <blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandroppf/gostack-desafio-conceitos-react-native?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandroppf/gostack-desafio-fundamentos-reactjs?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Leandro Pedroso" src="https://img.shields.io/badge/made%20by-Leandroppf-%2304D361">
@@ -15,8 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/leandroppf/gostack-desafio-typeorm-upload/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leandroppf/gostack-desafio-typeorm-upload?style=social">
+  <a href="https://github.com/leandroppf/gostack-desafio-fundamentos-reactjs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leandroppf/gostack-desafio-fundamentos-reactjs?style=social">
   </a>
 </p>
 
